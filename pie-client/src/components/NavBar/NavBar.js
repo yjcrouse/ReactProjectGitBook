@@ -7,7 +7,7 @@ import Logout from './Logout/Logout';
 const NavBar = (props) => {
     return (
         <nav>
-            <img src= {piePic} alt="Pie Picture"/>
+            <img src= {piePic} alt="PiePicture"/>
             <Logout />
         </nav>
     )
